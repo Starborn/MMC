@@ -1,0 +1,20 @@
+MetaModelCardElements
+MMCID - Identifier
+CMMCV - Version
+MMCO Owner
+MMCUse  (standalone, integrated)
+MMCDeiniton  (concept, motivation, theory)
+MMC Application Domain
+MMCSL System Layer
+MMCALApplication Layer
+MMCML Machine Layer *embedded
+MMCMLD Machine Layer Description *explicit representaion of the embedded layer
+MMCSM Structure Model
+MMCfM function Model
+MMCBM Behaviour Model
+MMCDM Dynamic (Process)
+MMCSM Static  (state)
+MMCSD Spatial (nm, mm, cm)
+MMCTM Temporal (ms, minute, hour, day, month, epoch)
+MMCSC Scale (nano, micro, macro, meso)
+MMDS Design Specification
